@@ -1,5 +1,8 @@
 # EasySound V1.2
 
+<img width="1202" height="832" alt="{819D795F-4ACC-4571-8C52-66B176959349}" src="https://github.com/user-attachments/assets/afd451cb-a6cb-4555-8429-2d2a9184298d" />
+
+
 Created by NorthStar.
 
 A lightweight real-time audio processor for Windows (and Linux/macOS).
