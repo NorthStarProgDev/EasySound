@@ -1,6 +1,7 @@
 # EasySound V1.2
 
-<img width="1202" height="832" alt="{819D795F-4ACC-4571-8C52-66B176959349}" src="https://github.com/user-attachments/assets/afd451cb-a6cb-4555-8429-2d2a9184298d" />
+<img width="1202" height="832" alt="{66489591-5F5C-4083-8F93-E3C67596FD2D}" src="https://github.com/user-attachments/assets/e7e2ab6a-3371-4518-ad0b-f3f00a5c888f" />
+
 
 
 Created by NorthStar.
