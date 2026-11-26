@@ -1,0 +1,11 @@
+
+*.AppImage
+Cargo.lock.bak
+dist/
+.DS_Store
+*.exe
+*.log
+release/
+**/*.rs.bk
+/target/
+.vite/
