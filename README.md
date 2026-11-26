@@ -24,7 +24,7 @@ cargo build --release
 
 Then run:
 
-- Linux: `./target/release/easysound`
+- Linux: `./target/release/easysound` (UNTESTED)
 - Windows (build on Windows): `cargo build --release` → `target\release\easysound.exe`
 
 Copy the binary anywhere and double-click it. Pin it to the Start Menu or taskbar — no Node/npm required.
